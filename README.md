@@ -11,6 +11,11 @@ Golang data structures using generics.
 
 * normal queue
 
+## Set
+
+* normal Set for comparable types
+* special IndirectSet for incomparable types
+
 ## TODO
 
 * Queue
@@ -18,6 +23,8 @@ Golang data structures using generics.
     * memory-efficient queue
     * memory-efficient concurrency-safe queue
     * ......
+* Set
+    * concurrency-safe set
 * Dynamic Array
 * List
 * Binary Tree
